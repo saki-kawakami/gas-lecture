@@ -1,0 +1,32 @@
+{
+  "name": "chikyu-sdk-gas",
+  "version": "1.0.0",
+  "description": "chikyu-sdk-gas",
+  "main": "index.js",
+  "scripts": {
+    "watch:admin": "gulp source.watch:admin",
+    "watch:common": "gulp source.watch:common",
+    "watch:input": "gulp source.watch:input",
+    "watch:last_week": "gulp source.watch:last_week -t",
+    "watch:minimum_granularity": "gulp source.watch:minimum_granularity",
+    "watch:product_shaping": "gulp source.watch:product_shaping",
+    "watch:this_week": "gulp source.watch:this_week"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/google-apps-script": "^0.0.58",
+    "app-root-path": "^3.0.0",
+    "eslint": "^6.8.0",
+    "exec-sh": "^0.3.4",
+    "fs-extra": "^8.1.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-typescript-formatter": "^0.1.3",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2",
+    "typescript-formatter": "^7.2.2",
+    "moment": "^2.24.0"
+  }
+}
