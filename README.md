@@ -60,7 +60,9 @@ git pull origin master
 
 #### ソースをgithubへpushする
 ```
-
+git add # staging環境に差分を更新
+git commit -m '更新内容記載' # indexにcommitを登録
+git push origin master # master branchにcommitをpushする
 ```
 
 
