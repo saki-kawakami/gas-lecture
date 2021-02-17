@@ -45,3 +45,33 @@ $ clasp push
 
 ```
 
+
+### GITの使い方
+
+
+#### githubからpullする
+```
+git pull origin master
+
+```
+
+#### ソースを修正する
+
+
+#### ソースをgithubへpushする
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
