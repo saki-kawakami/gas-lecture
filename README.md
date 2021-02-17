@@ -1,7 +1,9 @@
 ## 環境構築
 ### Visual Studio Codeの設定
-歯車の設定ボタン→settings→terminal.integrated.shell.windows→Git Bashのパス
-> C:\\Program Files\\Git\\bin\\bash.exe
+歯車の設定ボタン→settings→terminal.integrated.shell.windows→Git Bashのパス  
+```
+C:\\Program Files\\Git\\bin\\bash.exe  
+```
 Visual Studio Codeを閉じて再起動する
 
 ### Gitでgas lectureをCloneする
@@ -28,7 +30,7 @@ $ npm install
 
 ```
 ### スプレッドシートとフォームの複製
-https://drive.google.com/drive/folders/1GvesrRXI172ItpdVqNABz73InHnRzNCY
+https://drive.google.com/drive/folders/1GvesrRXI172ItpdVqNABz73InHnRzNCY  
 フォームとスプレッドシートを複製する
 フォームのスクリプトエディタからスクリプトIDをコピーして.clasp.json のスクリプトIDに置き換える
 
