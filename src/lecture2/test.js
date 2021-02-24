@@ -1,4 +1,4 @@
 function run () {
-    console.log('OK !')
+    console.log('O')
 }
   
